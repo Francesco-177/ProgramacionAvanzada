@@ -1,4 +1,6 @@
-﻿namespace PersonLibrary;
+﻿using System.Diagnostics.Contracts;
+
+namespace P2.Shared;
 
 public class Person
 {
@@ -27,6 +29,9 @@ public class Person
 
 
     */
+
+    public string? Name;
+    public DateTime DateOfBirth;
 
     
 

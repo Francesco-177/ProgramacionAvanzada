@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\ProgramacionAvanzada\P2\codigosclase\programa1\Libraries\personlibrary\bin\Debug\netstandard2\PersonLibrary.deps.json
+C:\Users\HP\Documents\ProgramacionAvanzada\P2\codigosclase\programa1\Libraries\personlibrary\bin\Debug\netstandard2\PersonLibrary.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P2\codigosclase\programa1\Libraries\personlibrary\bin\Debug\netstandard2\PersonLibrary.pdb
+C:\Users\HP\Documents\ProgramacionAvanzada\P2\codigosclase\programa1\Libraries\personlibrary\obj\Debug\netstandard2\PersonLibrary.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P2\codigosclase\programa1\Libraries\personlibrary\obj\Debug\netstandard2\PersonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ProgramacionAvanzada\P2\codigosclase\programa1\Libraries\personlibrary\obj\Debug\netstandard2\PersonLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P2\codigosclase\programa1\Libraries\personlibrary\obj\Debug\netstandard2\PersonLibrary.AssemblyInfo.cs
+C:\Users\HP\Documents\ProgramacionAvanzada\P2\codigosclase\programa1\Libraries\personlibrary\obj\Debug\netstandard2\PersonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P2\codigosclase\programa1\Libraries\personlibrary\obj\Debug\netstandard2\PersonLibrary.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P2\codigosclase\programa1\Libraries\personlibrary\obj\Debug\netstandard2\PersonLibrary.pdb

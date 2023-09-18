@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "PersonLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PersonLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonLibrary/1.0.0": {
+      "type": "project",
+      "path": "../../Libraries/PersonLibrary/PersonLibrary.csproj",
+      "msbuildProject": "../../Libraries/PersonLibrary/PersonLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "PersonLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P2\\codigosclase\\programa1\\oop\\peopleapp\\PeopleApp.csproj",
+      "projectName": "PeopleApp",
+      "projectPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P2\\codigosclase\\programa1\\oop\\peopleapp\\PeopleApp.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P2\\codigosclase\\programa1\\oop\\peopleapp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P2\\codigosclase\\programa1\\Libraries\\PersonLibrary\\PersonLibrary.csproj": {
+              "projectPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P2\\codigosclase\\programa1\\Libraries\\PersonLibrary\\PersonLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

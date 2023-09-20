@@ -1,9 +1,18 @@
 ﻿using System.Diagnostics.Contracts;
+using System.Collections.Generic
 
 namespace P2.Shared;
 
 public class Person
 {
+
+    public Person(bool wantChildren){
+
+        if(eantChildren){
+            Children = new():
+        }
+    
+    }
     /*
     Constructor: it's called when 
     new() is executed instance 
@@ -32,6 +41,10 @@ public class Person
 
     public string? Name;
     public DateTime DateOfBirth;
+
+    public FavoriteFood favoriteFood;
+
+    public List<Person>? Children;
 
     
 

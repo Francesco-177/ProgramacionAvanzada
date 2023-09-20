@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa4\bin\Debug\net7.0\programa4.exe
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa4\bin\Debug\net7.0\programa4.deps.json
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa4\bin\Debug\net7.0\programa4.runtimeconfig.json
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa4\bin\Debug\net7.0\programa4.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa4\bin\Debug\net7.0\programa4.pdb
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa4\obj\Debug\net7.0\programa4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa4\obj\Debug\net7.0\programa4.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa4\obj\Debug\net7.0\programa4.AssemblyInfo.cs
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa4\obj\Debug\net7.0\programa4.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa4\obj\Debug\net7.0\programa4.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa4\obj\Debug\net7.0\refint\programa4.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa4\obj\Debug\net7.0\programa4.pdb
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa4\obj\Debug\net7.0\programa4.genruntimeconfig.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa4\obj\Debug\net7.0\ref\programa4.dll

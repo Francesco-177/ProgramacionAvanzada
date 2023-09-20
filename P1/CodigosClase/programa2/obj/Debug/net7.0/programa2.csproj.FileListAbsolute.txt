@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa2\bin\Debug\net7.0\programa2.exe
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa2\bin\Debug\net7.0\programa2.deps.json
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa2\bin\Debug\net7.0\programa2.runtimeconfig.json
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa2\bin\Debug\net7.0\programa2.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa2\bin\Debug\net7.0\programa2.pdb
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa2\obj\Debug\net7.0\programa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa2\obj\Debug\net7.0\programa2.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa2\obj\Debug\net7.0\programa2.AssemblyInfo.cs
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa2\obj\Debug\net7.0\programa2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa2\obj\Debug\net7.0\programa2.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa2\obj\Debug\net7.0\refint\programa2.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa2\obj\Debug\net7.0\programa2.pdb
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa2\obj\Debug\net7.0\programa2.genruntimeconfig.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa2\obj\Debug\net7.0\ref\programa2.dll

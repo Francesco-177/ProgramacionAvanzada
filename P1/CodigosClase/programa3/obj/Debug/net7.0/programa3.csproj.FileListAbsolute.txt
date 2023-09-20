@@ -1,0 +1,4 @@
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa3\obj\Debug\net7.0\programa3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa3\obj\Debug\net7.0\programa3.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa3\obj\Debug\net7.0\programa3.AssemblyInfo.cs
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa3\obj\Debug\net7.0\programa3.csproj.CoreCompileInputs.cache

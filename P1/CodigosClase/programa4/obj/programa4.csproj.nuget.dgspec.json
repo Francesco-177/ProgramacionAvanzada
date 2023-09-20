@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa4\\programa4.csproj": {}
+    "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa4\\programa4.csproj": {}
   },
   "projects": {
-    "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa4\\programa4.csproj": {
+    "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa4\\programa4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa4\\programa4.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa4\\programa4.csproj",
         "projectName": "programa4",
-        "projectPath": "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa4\\programa4.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa4\\programa4.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa4\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

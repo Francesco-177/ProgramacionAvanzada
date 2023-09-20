@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\Tareas\tarea1\bin\Debug\net7.0\tarea1.exe
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\Tareas\tarea1\bin\Debug\net7.0\tarea1.deps.json
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\Tareas\tarea1\bin\Debug\net7.0\tarea1.runtimeconfig.json
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\Tareas\tarea1\bin\Debug\net7.0\tarea1.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\Tareas\tarea1\bin\Debug\net7.0\tarea1.pdb
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\Tareas\tarea1\obj\Debug\net7.0\tarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\Tareas\tarea1\obj\Debug\net7.0\tarea1.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\Tareas\tarea1\obj\Debug\net7.0\tarea1.AssemblyInfo.cs
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\Tareas\tarea1\obj\Debug\net7.0\tarea1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\Tareas\tarea1\obj\Debug\net7.0\tarea1.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\Tareas\tarea1\obj\Debug\net7.0\refint\tarea1.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\Tareas\tarea1\obj\Debug\net7.0\tarea1.pdb
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\Tareas\tarea1\obj\Debug\net7.0\tarea1.genruntimeconfig.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\Tareas\tarea1\obj\Debug\net7.0\ref\tarea1.dll

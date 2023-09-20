@@ -1,0 +1,4 @@
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa5\obj\Debug\net7.0\programa5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa5\obj\Debug\net7.0\programa5.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa5\obj\Debug\net7.0\programa5.AssemblyInfo.cs
+C:\Users\HP\Documents\ProgramacionAvanzada\P1\CodigosClase\programa5\obj\Debug\net7.0\programa5.csproj.CoreCompileInputs.cache

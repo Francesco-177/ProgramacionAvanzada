@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Tareas\\tarea2\\tarea2.csproj": {}
+    "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Tareas\\tarea2\\tarea2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Tareas\\tarea2\\tarea2.csproj": {
+    "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Tareas\\tarea2\\tarea2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Tareas\\tarea2\\tarea2.csproj",
+        "projectUniqueName": "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Tareas\\tarea2\\tarea2.csproj",
         "projectName": "tarea2",
-        "projectPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Tareas\\tarea2\\tarea2.csproj",
+        "projectPath": "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Tareas\\tarea2\\tarea2.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Tareas\\tarea2\\obj\\",
+        "outputPath": "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Tareas\\tarea2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

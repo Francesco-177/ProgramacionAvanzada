@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa3\\programa3.csproj": {}
+    "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa3\\programa3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa3\\programa3.csproj": {
+    "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa3\\programa3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa3\\programa3.csproj",
+        "projectUniqueName": "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa3\\programa3.csproj",
         "projectName": "programa3",
-        "projectPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa3\\programa3.csproj",
+        "projectPath": "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa3\\programa3.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa3\\obj\\",
+        "outputPath": "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\CodigosClase\\programa3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

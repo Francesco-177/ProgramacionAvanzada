@@ -1,4 +1,5 @@
 ﻿using P2.Shared;
+using static P2.Shared.Person;
 using System.Collections.Generic;
 
 Person kaleb = new(Name: "Kaleb", 
@@ -34,5 +35,40 @@ wantChildren: false);
 BankAccount.InterestRate = 0.012M;
 perla.bankAccount.AccountName = "Retiro a los 40";
 perla.bankAccount.Balance = 1600M;
-WriteLine($"Perla has invested {perla.bankAccount.Balance * BankAccount.InterestRate}")
-;
+WriteLine($"Perla has invested {perla.bankAccount.Balance * BankAccount.InterestRate}");
+
+Dictionary<int,string> lockUpInString = new();
+lockUpInString.Add(1,"Alpha");
+lockUpInString.Add(2,"Delta");
+lockUpInString.Add(3,"Gama");
+lockUpInString.Add(4,"Tetha");
+
+foreach(var key in lockUpInString.Keys){
+    WriteLine($"Key is {key} has value of: {lockUpInString[key]}");
+}
+
+//  DELEGATES
+
+
+Person Jared = new();
+int answer = Jared.MethodIWantToCall("Jared");;
+WriteLine(answer);
+
+//  using a delegate
+
+DelegateWithMatchingSignature d = new(Jared.MethodIWantToCall);
+int answer2 = d("Perla");
+
+// un delegado es un puntero que apunta a un metodo que quiero utilizar (pendiente de revisar)
+//  Assing the delegate to the method 
+Jared.Shout = Jared_Shout;
+
+Jared.Poke();
+Jared.Poke();
+Jared.Poke();
+Jared.Poke();
+Jared.Poke();
+Jared.Poke();
+
+
+

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o0i13OMjG9AsB6aKXmmH1R6e0sGTljOIOB2vlXEnxQRtxDmIv7zmKPrZGxpLK82ybkJasNoZFBGXvxgdKuQ9Bg==",
+  "dgSpecHash": "/6mupbm9xSXZ0D40QQjrqBIsIQhWjkuXpm/Seu2PsrQxqj6o04FyeU6kiJNqR8NR6ER+Laf265HKOe0WY4n/xQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa1\\libraries\\personlibrary\\PersonLibrary.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa1\\Libraries\\PersonLibrary\\PersonLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

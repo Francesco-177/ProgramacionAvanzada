@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa1\\libraries\\personlibrary\\PersonLibrary.csproj": {}
+    "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa1\\Libraries\\PersonLibrary\\PersonLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa1\\libraries\\personlibrary\\PersonLibrary.csproj": {
+    "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa1\\Libraries\\PersonLibrary\\PersonLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa1\\libraries\\personlibrary\\PersonLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa1\\Libraries\\PersonLibrary\\PersonLibrary.csproj",
         "projectName": "PersonLibrary",
-        "projectPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa1\\libraries\\personlibrary\\PersonLibrary.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa1\\Libraries\\PersonLibrary\\PersonLibrary.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa1\\libraries\\personlibrary\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa1\\Libraries\\PersonLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

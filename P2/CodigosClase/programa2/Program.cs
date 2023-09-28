@@ -49,27 +49,27 @@ WriteLine($"{"Directory.MyDocuments", -33}{GetFolderPath(SpecialFolder.MyDocumen
     string backupFile = Combine(dir, "Dummy.bak");
     WriteLine($"Working with {textFile}");
     WriteLine($"Does it exists? : {Path.Exists(textFile)}");
-     //Writing on files
-     //StreamWriter
-     StreamWriter textWriter = File.CreateText(textFile); //create
-     textWriter.WriteLine("Hello my bruuther");
-     textWriter.Close();
-     //close, if not, you cn corrupt the file
-     WriteLine($"Does it exists? : {Path.Exists(textFile)}");
+    //Writing on files
+    //StreamWriter
+    StreamWriter textWriter = File.CreateText(textFile); //create
+    textWriter.WriteLine("Hello my bruuther");
+    textWriter.Close();
+    //close, if not, you cn corrupt the file
+    WriteLine($"Does it exists? : {Path.Exists(textFile)}");
 
-     //backup
-     //copy the data from the original file into .bak file
-     File.Copy(sourceFileName: textFile, destFileName: backupFile, overwrite:true);
-     WriteLine($"Does backup exists? : {Path.Exists(backupFile)}");
+    //backup
+    //copy the data from the original file into .bak file
+    File.Copy(sourceFileName: textFile, destFileName: backupFile, overwrite:true);
+    WriteLine($"Does backup exists? : {Path.Exists(backupFile)}");
 
-     //assasinate File
-     File.Delete(textFile);
-     WriteLine($"Does it exists? : {Path.Exists(textFile)}");
+    //assasinate File
+    File.Delete(textFile);
+    WriteLine($"Does it exists? : {Path.Exists(textFile)}");
 
-     //READ from file
-     WriteLine($"Reading Contents from {backupFile}");
-     StreamReader textReader = File.OpenText(backupFile);
-     WriteLine(textReader.ReadToEnd());
-     textReader.Close();
+    //READ from file
+    WriteLine($"Reading Contents from {backupFile}");
+    StreamReader textReader = File.OpenText(backupFile);
+    WriteLine(textReader.ReadToEnd());
+    textReader.Close();
     
 #endregion

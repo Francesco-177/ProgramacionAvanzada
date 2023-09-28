@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa2\\programa2.csproj",
-      "projectName": "programa2",
-      "projectPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa2\\programa2.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa2\\WorkingWithFileSystems.csproj",
+      "projectName": "WorkingWithFileSystems",
+      "projectPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa2\\WorkingWithFileSystems.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa2\\obj\\",
       "projectStyle": "PackageReference",

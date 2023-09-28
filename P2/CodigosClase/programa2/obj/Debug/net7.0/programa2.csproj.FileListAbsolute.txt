@@ -1,0 +1,4 @@
+C:\Users\HP\Documents\ProgramacionAvanzada\p2\codigosclase\programa2\obj\Debug\net7.0\programa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ProgramacionAvanzada\p2\codigosclase\programa2\obj\Debug\net7.0\programa2.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\p2\codigosclase\programa2\obj\Debug\net7.0\programa2.AssemblyInfo.cs
+C:\Users\HP\Documents\ProgramacionAvanzada\p2\codigosclase\programa2\obj\Debug\net7.0\programa2.csproj.CoreCompileInputs.cache

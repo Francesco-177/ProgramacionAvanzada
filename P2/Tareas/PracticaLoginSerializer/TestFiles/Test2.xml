@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDevice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Device>
+    <ID>1</ID>
+    <Model>A24</Model>
+    <Description>Un multimetro digital de dos puntas</Description>
+    <YearEntered>2017</YearEntered>
+    <BrandName>Steren</BrandName>
+    <Category>false</Category>
+    <InitialPrice>2560</InitialPrice>
+    <ActualPrice>1835</ActualPrice>
+  </Device>
+</ArrayOfDevice>

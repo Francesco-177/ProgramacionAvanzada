@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "PersonLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PersonLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PersonLibrary/1.0.0": {
+      "type": "project",
+      "path": "../programa1/Libraries/PersonLibrary/PersonLibrary.csproj",
+      "msbuildProject": "../programa1/Libraries/PersonLibrary/PersonLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "PersonLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\HP\\.nuget\\packages\\": {}
@@ -13,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa3\\programa3.csproj",
-      "projectName": "programa3",
-      "projectPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa3\\programa3.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa3\\WorkingWithSerialization.csproj",
+      "projectName": "WorkingWithSerialization",
+      "projectPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa3\\WorkingWithSerialization.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa3\\obj\\",
       "projectStyle": "PackageReference",
@@ -31,7 +50,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa1\\Libraries\\PersonLibrary\\PersonLibrary.csproj": {
+              "projectPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\codigosclase\\programa1\\Libraries\\PersonLibrary\\PersonLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

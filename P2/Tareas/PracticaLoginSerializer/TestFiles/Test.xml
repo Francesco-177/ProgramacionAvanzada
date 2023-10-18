@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <ID>20300692</ID>
+    <FirstName>594323b42fabdd62a8511dd920e48879b47c515934906a683c660be4e7f05957</FirstName>
+    <LastName>798cc0f0ce54fd42212dbf4b39e414c165f6b9fd0463a5fc12d57d519edd94fc</LastName>
+    <Password>a5d8f2f149ed99223305bb48597407f9265ec899d44cc822c5c8ca9b577ec434</Password>
+    <DoB>2005</DoB>
+    <UserType>Estudiante</UserType>
+  </User>
+</ArrayOfUser>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tJOK7WpIQz30g8S8nH28MGs84yt/TvQ0N8Z8xVvDv1VSmwmxM5EbR/MWA7VDJuWlC0efSO11DHqYW8mEcKQYyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gusta\\PracticaLoginSerializer\\practicaloginserializer\\practicaloginserializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gusta\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

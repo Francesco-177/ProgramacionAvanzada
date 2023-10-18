@@ -1,5 +1,4 @@
 namespace P2.Shared;
-
 public enum FavoriteFood 
 {
     Pozole = 9,

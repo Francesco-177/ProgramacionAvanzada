@@ -1,0 +1,14 @@
+C:\Users\Gusta\PA17BAgo-Dic2023\practicatextcalculator\textcalculator\obj\Debug\net7.0\textcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gusta\PA17BAgo-Dic2023\practicatextcalculator\textcalculator\obj\Debug\net7.0\textcalculator.AssemblyInfoInputs.cache
+C:\Users\Gusta\PA17BAgo-Dic2023\practicatextcalculator\textcalculator\obj\Debug\net7.0\textcalculator.AssemblyInfo.cs
+C:\Users\Gusta\PA17BAgo-Dic2023\practicatextcalculator\textcalculator\obj\Debug\net7.0\textcalculator.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\PA17BAgo-Dic2023\practicatextcalculator\textcalculator\bin\Debug\net7.0\textcalculator.exe
+C:\Users\Gusta\PA17BAgo-Dic2023\practicatextcalculator\textcalculator\bin\Debug\net7.0\textcalculator.deps.json
+C:\Users\Gusta\PA17BAgo-Dic2023\practicatextcalculator\textcalculator\bin\Debug\net7.0\textcalculator.runtimeconfig.json
+C:\Users\Gusta\PA17BAgo-Dic2023\practicatextcalculator\textcalculator\bin\Debug\net7.0\textcalculator.dll
+C:\Users\Gusta\PA17BAgo-Dic2023\practicatextcalculator\textcalculator\bin\Debug\net7.0\textcalculator.pdb
+C:\Users\Gusta\PA17BAgo-Dic2023\practicatextcalculator\textcalculator\obj\Debug\net7.0\textcalculator.dll
+C:\Users\Gusta\PA17BAgo-Dic2023\practicatextcalculator\textcalculator\obj\Debug\net7.0\refint\textcalculator.dll
+C:\Users\Gusta\PA17BAgo-Dic2023\practicatextcalculator\textcalculator\obj\Debug\net7.0\textcalculator.pdb
+C:\Users\Gusta\PA17BAgo-Dic2023\practicatextcalculator\textcalculator\obj\Debug\net7.0\textcalculator.genruntimeconfig.cache
+C:\Users\Gusta\PA17BAgo-Dic2023\practicatextcalculator\textcalculator\obj\Debug\net7.0\ref\textcalculator.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Examen\\Examen.csproj": {}
+    "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Examen\\Examen.csproj": {}
   },
   "projects": {
-    "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Examen\\Examen.csproj": {
+    "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Examen\\Examen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Examen\\Examen.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Examen\\Examen.csproj",
         "projectName": "Examen",
-        "projectPath": "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Examen\\Examen.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Examen\\Examen.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Examen\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\P1\\Examen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

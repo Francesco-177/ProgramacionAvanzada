@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="../programa1/Libraries/PersonLibrary/PersonLibrary.csproj" />
+    <Using Include="System.Console" Static="true"/>
+  </ItemGroup>
 </Project>

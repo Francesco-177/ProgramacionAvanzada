@@ -2,6 +2,7 @@
 using static P2.Shared.Person;
 using System.Collections.Generic;
 
+
 Person kaleb = new(Name: "Kaleb", 
 dateOfBirth: new DateTime(2005, 12, 21), 
 favoriteFood: FavoriteFood.Tacos, 
@@ -37,38 +38,45 @@ perla.bankAccount.AccountName = "Retiro a los 40";
 perla.bankAccount.Balance = 1600M;
 WriteLine($"Perla has invested {perla.bankAccount.Balance * BankAccount.InterestRate}");
 
-Dictionary<int,string> lockUpInString = new();
-lockUpInString.Add(1,"Alpha");
-lockUpInString.Add(2,"Delta");
-lockUpInString.Add(3,"Gama");
-lockUpInString.Add(4,"Tetha");
+// Dictionaries
+// Can have multiple keys, and duplicated keys
+// Can have multiples values and duplicated ones
 
-foreach(var key in lockUpInString.Keys){
-    WriteLine($"Key is {key} has value of: {lockUpInString[key]}");
+// Generics usually are collections
+//<TKey, TValue>
+Dictionary<int, string> lookUpIntString = new();// Tuple
+lookUpIntString.Add(0, "Alpha");
+lookUpIntString.Add(2, "Delta");
+lookUpIntString.Add(3, "Gamma");
+lookUpIntString.Add(4, "Tetha");
+// Rule N1 : Generic Types need the key to be the SAME type
+//lookUpIntString.Add(perla, "Alpha"); // so ... this shit is an error
+// specifically cannot convert from Person to int
+
+foreach (var key in lookUpIntString.Keys)
+{
+    WriteLine($"Key is : {key} has value of : {lookUpIntString[key]}");
 }
 
-//  DELEGATES
-
-
+// Delegates
+// Anonymous calls
+// Is a Pointer that has a reference of a function
+// is a Variable that calls a method
 Person Jared = new();
-int answer = Jared.MethodIWantToCall("Jared");;
+Jared.Name = "Jared";
+int answer = Jared.MethodIWantToCall("Jared");
 WriteLine(answer);
 
-//  using a delegate
-
+// Using a delegate
 DelegateWithMatchingSignature d = new(Jared.MethodIWantToCall);
 int answer2 = d("Perla");
 
-// un delegado es un puntero que apunta a un metodo que quiero utilizar (pendiente de revisar)
-//  Assing the delegate to the method 
+// Using 3rd example of delegates , assign and trigger
+// assign the delegate to the method i want to execute
 Jared.Shout = Jared_Shout;
-
+// Trigger
 Jared.Poke();
 Jared.Poke();
 Jared.Poke();
 Jared.Poke();
 Jared.Poke();
-Jared.Poke();
-
-
-

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDevice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Device>
+    <ID>1</ID>
+    <Model>A24</Model>
+    <Description>Un multimetro digital de dos puntas</Description>
+    <YearEntered>2017</YearEntered>
+    <BrandName>Steren</BrandName>
+    <Category>false</Category>
+    <InitialPrice>2560</InitialPrice>
+    <ActualPrice>1835</ActualPrice>
+  </Device>
+  <Device>
+    <ID>2</ID>
+    <Model>1892</Model>
+    <Description>A generic product to test this app</Description>
+    <YearEntered>2018</YearEntered>
+    <BrandName>Rito games</BrandName>
+    <Category>false</Category>
+    <InitialPrice>1999.99</InitialPrice>
+    <ActualPrice>69420.9</ActualPrice>
+  </Device>
+  <Device>
+    <ID>69</ID>
+    <Model>2391</Model>
+    <Description>Generic product</Description>
+    <YearEntered>2005</YearEntered>
+    <BrandName>Cartoon  Network</BrandName>
+    <Category>false</Category>
+    <InitialPrice>2183</InitialPrice>
+    <ActualPrice>134</ActualPrice>
+  </Device>
+  <Device>
+    <ID>420</ID>
+    <Model>218138</Model>
+    <Description>ya no se que poner</Description>
+    <YearEntered>2012</YearEntered>
+    <BrandName>HBO</BrandName>
+    <Category>true</Category>
+    <InitialPrice>19038</InitialPrice>
+    <ActualPrice>34717</ActualPrice>
+  </Device>
+  <Device>
+    <ID>789</ID>
+    <Model>Amongus</Model>
+    <Description>Sus</Description>
+    <YearEntered>2019</YearEntered>
+    <BrandName>TwerkingAmongus</BrandName>
+    <Category>false</Category>
+    <InitialPrice>43.3178347</InitialPrice>
+    <ActualPrice>69.42</ActualPrice>
+  </Device>
+  <Device>
+    <ID>438</ID>
+    <Model>823893248</Model>
+    <Description>Algo 1</Description>
+    <YearEntered>2019</YearEntered>
+    <BrandName>Amongus</BrandName>
+    <Category>true</Category>
+    <InitialPrice>39834.31342</InitialPrice>
+    <ActualPrice>3214.53</ActualPrice>
+  </Device>
+  <Device>
+    <ID>34</ID>
+    <Model>Botella</Model>
+    <Description>Nose</Description>
+    <YearEntered>2013</YearEntered>
+    <BrandName>Huaweii</BrandName>
+    <Category>false</Category>
+    <InitialPrice>320934</InitialPrice>
+    <ActualPrice>343</ActualPrice>
+  </Device>
+  <Device>
+    <ID>9849</ID>
+    <Model>Eneldo</Model>
+    <Description>Yanose</Description>
+    <YearEntered>2009</YearEntered>
+    <BrandName>Xiaomi</BrandName>
+    <Category>true</Category>
+    <InitialPrice>24984</InitialPrice>
+    <ActualPrice>328438</ActualPrice>
+  </Device>
+  <Device>
+    <ID>58998</ID>
+    <Model>Algo</Model>
+    <Description>completar</Description>
+    <YearEntered>2018</YearEntered>
+    <BrandName>Tristana</BrandName>
+    <Category>false</Category>
+    <InitialPrice>2390239</InitialPrice>
+    <ActualPrice>34.3</ActualPrice>
+  </Device>
+</ArrayOfDevice>

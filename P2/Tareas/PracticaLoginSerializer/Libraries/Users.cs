@@ -8,7 +8,7 @@ public class User{
     public int? DoB { get; set; }
     public string? UserType { get; set; }
 
-    public User(){} //Default Constructor
+    public User(){} 
     public User(int id, string firstName, string lastName, string password, int dob, string userType){
         ID = id;
         FirstName = firstName;

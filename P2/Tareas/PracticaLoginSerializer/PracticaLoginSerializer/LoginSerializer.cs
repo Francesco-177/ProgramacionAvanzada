@@ -7,31 +7,30 @@ using Libraries;
 using System.Collections.Specialized;
 
 public class LoginSerializer{
-    // Function to add a new user
     public void SignUP(User newUser, string dirXML, string dirJSON){
         List<User>? Users = null;
         XmlSerializer xs = new XmlSerializer(typeof(List<User>));
 
         using (FileStream xmlLoad = File.Open(dirXML, FileMode.Open)){
-            // Deserialize XML file into a list of users
+            // Deserializar archivo a lista de usuarios
             Users = xs.Deserialize(xmlLoad) as List<User> ?? new List<User>();
         }
 
         Users.Add(newUser);
 
         using (FileStream stream = new FileStream(dirXML, FileMode.Create)){
-            // Serialize the updated list of users back to XML
+            // serializar la lista de usuarios a xml
             xs.Serialize(stream, Users);
         }
 
         using (StreamWriter jsonStream = new StreamWriter(dirJSON, false)){
-            // Serialize the updated list of users to JSON
+            // serializar la lista a Json
             Newtonsoft.Json.JsonSerializer jss = new();
             jss.Serialize(jsonStream, Users);
         }
     }
     
-    // Function to check login credentials
+    // revisar credenciales
     public bool Login(string Name, string Password, string dirXML){
         string HashName = CalculateHashSHA256(Name);
         string HashPassword = CalculateHashSHA256(Password);
@@ -39,25 +38,25 @@ public class LoginSerializer{
         List<User>? Users = null;
         XmlSerializer xs = new XmlSerializer(typeof(List<User>));
         using (FileStream xmlLoad = File.Open(dirXML, FileMode.Open)){
-            // Deserialize XML file into a list of users
+            // Deserializar archivo a lista de usuarios
             Users = xs.Deserialize(xmlLoad) as List<User> ?? new List<User>();
         }
 
         foreach (User U in Users){
             if (U.FirstName == HashName && U.Password == HashPassword){
-                return true; // Successful login
+                return true; 
             }
         }
-        return false; // Login failed
+        return false; 
     }
 
-    // Function to remove a user by ID
+    // Quitar usuario por id
     public bool RemoveUser(int id, string dirXML, string dirJSON){
         List<User>? Users = null;
         XmlSerializer xs = new XmlSerializer(typeof(List<User>));
 
         using (FileStream xmlLoad = File.Open(dirXML, FileMode.Open)){
-            // Deserialize XML file into a list of devices
+            // Deserializar archivo a lista de usuarios
             Users = xs.Deserialize(xmlLoad) as List<User> ?? new List<User>();
         }
 
@@ -67,17 +66,17 @@ public class LoginSerializer{
                 Users.RemoveAt(i);
 
                 using (FileStream stream = new FileStream(dirXML, FileMode.Create)){
-                    // Serialize the updated list of devices back to XML
+                    //serializar la lista a xml
                     xs.Serialize(stream, Users);
                 }
 
                 using (StreamWriter jsonStream = new StreamWriter(dirJSON, false)){
-                    // Serialize the updated list of devices to JSON
+                    // serializar la lista a json
                     Newtonsoft.Json.JsonSerializer jss = new();
                     jss.Serialize(jsonStream, Users);
                 }
 
-                return true; // Exit the loop once the device is found and removed
+                return true; 
             }
         }
         return false;
@@ -90,7 +89,7 @@ public class LoginSerializer{
         XmlSerializer xs = new XmlSerializer(typeof(List<User>));
 
         using (FileStream xmlLoad = File.Open(dirXML, FileMode.Open)){
-            // Deserialize XML file into a list of users
+            //Deserializar la lista a xml
             Users = xs.Deserialize(xmlLoad) as List<User> ?? new List<User>();
         }
 
@@ -101,12 +100,12 @@ public class LoginSerializer{
                 WriteLine("Updated password");
 
                 using (FileStream stream = new FileStream(dirXML, FileMode.Create)){
-                    // Serialize the updated list of users back to XML
+                    //serializar la lista a xml
                     xs.Serialize(stream, Users);
                 }
 
                 using (StreamWriter jsonStream = new StreamWriter(dirJSON, false)){
-                    // Serialize the updated list of users to JSON
+                    //serializar la lista a json
                     Newtonsoft.Json.JsonSerializer jss = new();
                     jss.Serialize(jsonStream, Users);
                 }
@@ -117,38 +116,37 @@ public class LoginSerializer{
         return false;
     }
 
-    // Function to add a new device
+    // Agregar nuevo dispositivo
     public void AddDevice(Device device, string dirXML, string dirJSON){
         List<Device>? Devices = null;
         XmlSerializer xs = new XmlSerializer(typeof(List<Device>));
 
         using (FileStream xmlLoad = File.Open(dirXML, FileMode.Open)){
-            // Deserialize XML file into a list of 'Device'
+            //deserializar xml a lista de dispositivos
             Devices = xs.Deserialize(xmlLoad) as List<Device> ?? new List<Device>();
         }
 
         Devices.Add(device);
 
         using (FileStream stream = new FileStream(dirXML, FileMode.Create)){
-            // Serialize the updated list of 'Device' back to XML
+            //serializar la lista a xml
             xs.Serialize(stream, Devices);
         }
 
         using (StreamWriter jsonStream = new StreamWriter(dirJSON, false))
         {
-            // Serialize the updated list of 'Device' to JSON
+            //serializar la lista a json
             Newtonsoft.Json.JsonSerializer jss = new();
             jss.Serialize(jsonStream, Devices);
         }
     }
 
-    // Function to update an existing device by ID
+    // agregar dispositivo por id
     public bool UpdateDevice(int id, Device device, string dirXML, string dirJSON){
         List<Device>? Devices = null;
         XmlSerializer xs = new XmlSerializer(typeof(List<Device>));
 
         using (FileStream xmlLoad = File.Open(dirXML, FileMode.Open)){
-            // Deserialize XML file into a list of 'Device'
             Devices = xs.Deserialize(xmlLoad) as List<Device> ?? new List<Device>();
         }
 
@@ -158,30 +156,27 @@ public class LoginSerializer{
                 WriteLine("Updated device");
 
                 using (FileStream stream = new FileStream(dirXML, FileMode.Create)){
-                    // Serialize the updated list of 'Device' back to XML
                     xs.Serialize(stream, Devices);
                 }
 
                 using (StreamWriter jsonStream = new StreamWriter(dirJSON, false)){
-                    // Serialize the updated list of 'Device' to JSON
                     Newtonsoft.Json.JsonSerializer jss = new();
                     jss.Serialize(jsonStream, Devices);
                 }
 
-                return true; // Exit the loop once the 'Device' is found and updated
+                return true; // salir una vez que se agrego el dispositivo
             }
         }
         return false;
     }
 
-    // Function to remove an device by ID
+    // eliminar dispositivo por id
     public bool RemoveDevice(int id, string dirXML, string dirJSON){
         List<Device>? Devices = null;
         XmlSerializer xs = new XmlSerializer(typeof(List<Device>));
 
         using (FileStream xmlLoad = File.Open(dirXML, FileMode.Open)){
-            // Deserialize XML file into a list of devices
-            Devices = xs.Deserialize(xmlLoad) as List<Device> ?? new List<Device>();
+\            Devices = xs.Deserialize(xmlLoad) as List<Device> ?? new List<Device>();
         }
 
         for (int i = 0; i < Devices.Count; i++){
@@ -190,29 +185,26 @@ public class LoginSerializer{
                 Devices.RemoveAt(i);
 
                 using (FileStream stream = new FileStream(dirXML, FileMode.Create)){
-                    // Serialize the updated list of devices back to XML
-                    xs.Serialize(stream, Devices);
+\                    xs.Serialize(stream, Devices);
                 }
 
                 using (StreamWriter jsonStream = new StreamWriter(dirJSON, false)){
-                    // Serialize the updated list of devices to JSON
                     Newtonsoft.Json.JsonSerializer jss = new();
                     jss.Serialize(jsonStream, Devices);
                 }
 
-                return true; // Exit the loop once the device is found and removed
+                return true; /
             }
         }
         return false;
     }
 
-    // Function to generate a report based on specified criteria
+    // elaborar reporte
     public void Report(int I, string dirXmlDevices, string dirXML, string dirJSON){
         List<Device>? Devices = null;
         XmlSerializer xs = new XmlSerializer(typeof(List<Device>));
 
         using (FileStream xmlLoad = File.Open(dirXmlDevices, FileMode.Open)){
-            // Deserialize XML file into a list of 'Device'
             Devices = xs.Deserialize(xmlLoad) as List<Device> ?? new List<Device>();
         }
 
@@ -261,25 +253,21 @@ public class LoginSerializer{
         }
 
         using (FileStream stream = new FileStream(dirXML, FileMode.Create)){
-            // Serialize the ordered list of 'Device' back to XML
             xs.Serialize(stream, orderedDevices);
         }
 
         using (StreamWriter jsonStream = new StreamWriter(dirJSON, false)){
-            // Serialize the ordered list of 'Device' to JSON
             Newtonsoft.Json.JsonSerializer jss = new();
             jss.Serialize(jsonStream, orderedDevices);
         }
     }
 
-    // Function to calculate SHA256 hash
+    // Calcular SHA256 hash
     public string CalculateHashSHA256(string? inputS){
         string input = inputS ?? "0";
         using (SHA256 sha256Hash = SHA256.Create()){
-            // Convert the text to bytes and calculate the hash
             byte[] bytes = sha256Hash.ComputeHash(Encoding.UTF8.GetBytes(input));
 
-            // Convert the hash to a hexadecimal string
             StringBuilder builder = new StringBuilder();
             for (int i = 0; i < bytes.Length; i++){
                 builder.Append(bytes[i].ToString("x2"));

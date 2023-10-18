@@ -1,20 +1,33 @@
-A
+res = 
+5
 +
-B
-res=Invalid operation format
+6
 
 
-41O
+4
 -
-38A
-res =The input string '41O
-' was not in a correct format. /////
+3
+res =
 1
 /
 4
-res =0.25
-aaa a a a a a aa 
+res =
+
+
+
+
+ aaa a a a a a aa 
+
+
+
+
 a a a a a a a 
+
+
+
+
+
+
 16
 /
 3

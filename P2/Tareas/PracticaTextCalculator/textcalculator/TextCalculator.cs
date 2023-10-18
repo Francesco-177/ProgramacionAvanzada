@@ -1,10 +1,9 @@
 ﻿namespace textcalculator;
-using static System.IO.Directory; // Create or kill folders
-using static System.IO.Path; // Creates URLS // C://Documentos...
-using static System.Environment; // OS, Users, permissions
+using static System.IO.Directory;
 using System.Text;
+using static System.IO.Path; 
+using static System.Environment; 
 using System.Text.RegularExpressions;
-
 using System.Globalization;
 using System.Diagnostics;
 
@@ -19,20 +18,18 @@ public class TextCalculator{
                 fileContent = textReader.ReadToEnd();
             }
             
-            //Store the extracted and formatted operations
             List<string> Operations = ExtractOperations(fileContent);
             List<string> Results = GetResults(Operations);
 
             StringBuilder stringBuilder = new StringBuilder(fileContent);
-            if(fileContent.Length==0){//Check for an empty file
+            if(fileContent.Length==0){//Verificar si el archivo esta vacio
                 return "Empty file";
             }
 
-            //Auxiliary variables
             int currentResult = 0;
             char newChar;
 
-            //Rewrite the content of the file with the results
+            //Reescribir el archivo con los resultados
             for(int i = 0; i < fileContent.Length; i++){
                 newChar = fileContent[i]; 
                 if(newChar == '='){
@@ -55,11 +52,11 @@ public class TextCalculator{
 
         for(int i = 0;i < OperationText.Length;i++){
             newChar = OperationText[i];
-            if (newChar == 'r'||newChar == 'R'){ //Check for keyword Res
+            if (newChar == 'r'||newChar == 'R'){ //Revisar la palabra clave "Res"
                 for(int j=i;j<OperationText.Length;j++){
-                    if(OperationText[j]=='='){//Check where it ends
+                    if(OperationText[j]=='='){//Fin de la expresion
                         i=j;
-                        Operations.Add(newString);//Add found operation
+                        Operations.Add(newString);//Guardar la operacion
                         newString="";
                         break;
                     }
@@ -77,26 +74,20 @@ public class TextCalculator{
 
         foreach (string operation in operations){
             string result;
-            //Console.WriteLine("Se agrego");
-            //Console.WriteLine($"{operation}");
 
-            // Check if the operation is a fraction
+            // Primero verificar si la operacion es una fraccion
             if (operation.Contains('/')){
-                // Check if there are valid numbers on both sides of '/'
+                // Verificar si los numeros son validos en la expresion /
                 string[] parts = operation.Split('/'); 
                 if (parts.Length > 2){
-                    // Valid fraction operation
-                    //Console.WriteLine("Entro como fraccion");
                     result = OperateFractions(operation);
-                    
+                
                 }
                 else{
-                    //Console.WriteLine("entro como entero");
                     result = OperateInts(operation);
                 }
             }
             else{
-                //Console.WriteLine("entro como entero");
                 result = OperateInts(operation);
             }
             results.Add(result);
@@ -109,14 +100,13 @@ public class TextCalculator{
 
         // Try to perform the operation
         try{
-            // Extract operands and operator
+            // extraer operacion y las expresionen que la contienen
             var (num1, num2, oper) = ExtractOperandsAndOperator(operation);
 
-            // Perform the operation based on the operator
             result = PerformOperation(num1, num2, oper);
         }
         catch (Exception ex){
-            result = ex.Message; // Return error message if operation fails
+            result = ex.Message; // Error si la operacion falla
         }
 
         return result;
@@ -127,7 +117,7 @@ public class TextCalculator{
         int num1, num2;
         char oper;
 
-        //Operations that the calculator handles
+        //Operaciones que maneja el programa
         char[] Validoperators = { '+', '-', '*', '/' };
 
         string[] parts = operation.Split(Validoperators, StringSplitOptions.RemoveEmptyEntries);
@@ -136,7 +126,6 @@ public class TextCalculator{
             throw new InvalidOperationException("Invalid operation format");
         }
 
-        //Return each member of the operation that is needed to perform
         num1 = int.Parse(parts[0]);
         num2 = int.Parse(parts[1]);
         oper = operation.First(c => Validoperators.Contains(c));
@@ -145,7 +134,7 @@ public class TextCalculator{
 
     public static string PerformOperation(int num1, int num2, char oper){
     double result;
-    // Call the appropriate operation method based on the operator
+    // Hacer la operacion adecuada en base al operador encontrado
         switch (oper){
             case '+':
                 result = Add(num1, num2);
@@ -164,7 +153,7 @@ public class TextCalculator{
         }
         return result.ToString();
     }
-
+    //Suma
     public static double Add(int num1, int num2){
         try{
             return checked(num1 + num2);
@@ -173,7 +162,8 @@ public class TextCalculator{
             throw new InvalidOperationException("Overflow during addition");
         }
     }
-
+     
+    //Resta
     public static double Subtract(int num1, int num2){
         try{
             return checked(num1 - num2);
@@ -183,6 +173,7 @@ public class TextCalculator{
         }
     }
 
+    //Multiplicacion
     public static double Multiply(int num1, int num2){
         try{
             return checked(num1 * num2);
@@ -192,6 +183,7 @@ public class TextCalculator{
         }
     }
 
+    //Division
     public static double Divide(int num1, int num2){
         try{
             return (double)num1 / num2;
@@ -206,35 +198,21 @@ public class TextCalculator{
 
     public static string OperateFractions(string op){
     try{
-        //Console.WriteLine("I received");
-        //Console.WriteLine($"{op}");
 
         string[] parts = op.Split(new[] { '+', '-', '*' }, StringSplitOptions.RemoveEmptyEntries);
 
-        /*Console.WriteLine("I separated it as");
-        foreach (var part in parts){
-            Console.WriteLine($"{part}");
-        }*/
-
         if (parts.Length != 2){
-            //Console.WriteLine("entered in this shit1");
             throw new InvalidOperationException("Invalid operation format");
         }
 
         Console.WriteLine("entered in this shit2");
 
-        // Parse the fractions into numerators and denominators
+        // Parse a las fracciones 
         int[] numbers = new int[4];
         (numbers[0],numbers[1]) = ParseFraction(parts[0]);
         (numbers[2],numbers[3]) = ParseFraction(parts[1]);
 
         char oper = op.First(c => c == '+' || c == '-' || c == '*');
-
-        /*Console.WriteLine("entered in this shit3");
-        Console.WriteLine("I sent the following array");
-        foreach (var part in numbers){
-            Console.WriteLine($"{part}");
-        }*/
 
         switch (oper){
             case '+':
@@ -304,19 +282,18 @@ public class TextCalculator{
     }
 
     public static void ReduceFraction(ref int numerator, ref int denominator){
-        //Auxiliary variables
         int temp;
         int a = numerator;
         int b = denominator;
 
-        // Use the Euclidean algorithm to find the greatest common divisor
+        // Encontrar el comun denominador
         while (b != 0){
             temp = b;
             b = a % b;
             a = temp;
         }
 
-        // Divide both numerator and denominator by the greatest common divisor
+        // dividir entre el comun denominador
         numerator /= a;
         denominator /= a;
     }

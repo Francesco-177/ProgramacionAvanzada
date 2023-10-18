@@ -13,7 +13,7 @@ namespace Libraries{
         public bool? Category { get; set; }
         public double? InitialPrice { get; set; }
         public double? ActualPrice { get; set; }
-        public Device(){} //Default constructor
+        public Device(){} 
         public Device(int id, string model, string description, int yearEntered, string brandName, bool category, double initialPrice, double actualPrice){
             ID = id;
             Model = model;

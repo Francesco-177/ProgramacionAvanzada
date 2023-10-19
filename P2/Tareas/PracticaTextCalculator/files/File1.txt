@@ -1,4 +1,4 @@
-res = 
+res =Invalid operation format 
 5
 +
 6
@@ -7,11 +7,11 @@ res =
 4
 -
 3
-res =
+res =Invalid operation format
 1
 /
 4
-res =
+res =0.25
 
 
 

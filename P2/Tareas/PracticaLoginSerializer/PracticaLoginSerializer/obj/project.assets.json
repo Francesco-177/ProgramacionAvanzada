@@ -71,19 +71,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gusta\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gusta\\PracticaLoginSerializer\\PracticaLoginSerializer\\practicaloginserializer.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\tareas\\practicaloginserializer\\practicaloginserializer\\practicaloginserializer.csproj",
       "projectName": "practicaloginserializer",
-      "projectPath": "C:\\Users\\Gusta\\PracticaLoginSerializer\\PracticaLoginSerializer\\practicaloginserializer.csproj",
-      "packagesPath": "C:\\Users\\Gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gusta\\PracticaLoginSerializer\\PracticaLoginSerializer\\obj\\",
+      "projectPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\tareas\\practicaloginserializer\\practicaloginserializer\\practicaloginserializer.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\tareas\\practicaloginserializer\\practicaloginserializer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -95,8 +95,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Gusta\\PracticaLoginSerializer\\Libraries\\libraries.csproj": {
-              "projectPath": "C:\\Users\\Gusta\\PracticaLoginSerializer\\Libraries\\libraries.csproj"
+            "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\tareas\\practicaloginserializer\\Libraries\\libraries.csproj": {
+              "projectPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\tareas\\practicaloginserializer\\Libraries\\libraries.csproj"
             }
           }
         }
@@ -132,7 +132,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

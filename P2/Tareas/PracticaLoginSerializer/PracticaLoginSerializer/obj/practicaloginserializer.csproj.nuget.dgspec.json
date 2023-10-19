@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gusta\\PracticaLoginSerializer\\practicaloginserializer\\practicaloginserializer.csproj": {}
+    "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\tareas\\practicaloginserializer\\practicaloginserializer\\practicaloginserializer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gusta\\PracticaLoginSerializer\\Libraries\\libraries.csproj": {
+    "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\tareas\\practicaloginserializer\\Libraries\\libraries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gusta\\PracticaLoginSerializer\\Libraries\\libraries.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\tareas\\practicaloginserializer\\Libraries\\libraries.csproj",
         "projectName": "libraries",
-        "projectPath": "C:\\Users\\Gusta\\PracticaLoginSerializer\\Libraries\\libraries.csproj",
-        "packagesPath": "C:\\Users\\Gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gusta\\PracticaLoginSerializer\\Libraries\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\tareas\\practicaloginserializer\\Libraries\\libraries.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\tareas\\practicaloginserializer\\Libraries\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,21 +53,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gusta\\PracticaLoginSerializer\\practicaloginserializer\\practicaloginserializer.csproj": {
+    "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\tareas\\practicaloginserializer\\practicaloginserializer\\practicaloginserializer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gusta\\PracticaLoginSerializer\\practicaloginserializer\\practicaloginserializer.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\tareas\\practicaloginserializer\\practicaloginserializer\\practicaloginserializer.csproj",
         "projectName": "practicaloginserializer",
-        "projectPath": "C:\\Users\\Gusta\\PracticaLoginSerializer\\practicaloginserializer\\practicaloginserializer.csproj",
-        "packagesPath": "C:\\Users\\Gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gusta\\PracticaLoginSerializer\\practicaloginserializer\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\tareas\\practicaloginserializer\\practicaloginserializer\\practicaloginserializer.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\tareas\\practicaloginserializer\\practicaloginserializer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -79,8 +79,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Gusta\\PracticaLoginSerializer\\Libraries\\libraries.csproj": {
-                "projectPath": "C:\\Users\\Gusta\\PracticaLoginSerializer\\Libraries\\libraries.csproj"
+              "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\tareas\\practicaloginserializer\\Libraries\\libraries.csproj": {
+                "projectPath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\tareas\\practicaloginserializer\\Libraries\\libraries.csproj"
               }
             }
           }
@@ -116,7 +116,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

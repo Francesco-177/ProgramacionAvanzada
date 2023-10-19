@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfDevice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
- 
+  <Device>
+    <ID>1</ID>
+    <Model>12r3rn</Model>
+    <Description>Acoplador para partes de automovil</Description>
+    <YearEntered>2023</YearEntered>
+    <BrandName>huawei</BrandName>
+    <Category>true</Category>
+    <InitialPrice>12344</InitialPrice>
+    <ActualPrice>500</ActualPrice>
+  </Device>
 </ArrayOfDevice>

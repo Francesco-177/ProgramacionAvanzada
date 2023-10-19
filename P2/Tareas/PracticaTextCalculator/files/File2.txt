@@ -1,4 +1,4 @@
-res =
+res =Invalid operation format
 5
 +
 6
@@ -7,11 +7,11 @@ res =
 4
 -
 3
-res =
+res =Invalid operation format
 1
 /
 4
-res =
+res =0.25
 
 
 
@@ -31,12 +31,13 @@ a a a a a a a
 16
 /
 3
-res =
+res =5.333333333333333
 4
 *
 10000000
-res =
+res =40000000
 100000000/2111111111111
 +
 3/16
-res =
+res =Error: Error parsing fraction '100000000/2111111111111
+': Value was either too large or too small for an Int32.

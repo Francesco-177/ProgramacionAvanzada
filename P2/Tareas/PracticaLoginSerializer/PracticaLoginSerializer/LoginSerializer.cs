@@ -176,7 +176,7 @@ public class LoginSerializer{
         XmlSerializer xs = new XmlSerializer(typeof(List<Device>));
 
         using (FileStream xmlLoad = File.Open(dirXML, FileMode.Open)){
-\            Devices = xs.Deserialize(xmlLoad) as List<Device> ?? new List<Device>();
+            Devices = xs.Deserialize(xmlLoad) as List<Device> ?? new List<Device>();
         }
 
         for (int i = 0; i < Devices.Count; i++){
@@ -185,7 +185,7 @@ public class LoginSerializer{
                 Devices.RemoveAt(i);
 
                 using (FileStream stream = new FileStream(dirXML, FileMode.Create)){
-\                    xs.Serialize(stream, Devices);
+                    xs.Serialize(stream, Devices);
                 }
 
                 using (StreamWriter jsonStream = new StreamWriter(dirJSON, false)){
@@ -193,7 +193,7 @@ public class LoginSerializer{
                     jss.Serialize(jsonStream, Devices);
                 }
 
-                return true; /
+                return true; 
             }
         }
         return false;

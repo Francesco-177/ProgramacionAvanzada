@@ -5,15 +5,15 @@ using loginSerializer;
 
 bool aux = false;
 LoginSerializer loginSerializer = new();
-string dirXmlUsers = @"C:\Users\HP\PracticaLoginSerializer\TestFiles\Users.xml";
-string dirJsonUsers = @"C:\Users\HP\PracticaLoginSerializer\TestFiles\Users.json";
-string dirXmlDevices = @"C:\Users\HP\PracticaLoginSerializer\TestFiles\Devices.xml";
-string dirJsonDevices = @"C:\Users\HP\PracticaLoginSerializer\TestFiles\Devices.json";
-string dirXmlReports = @"C:\Users\HP\PracticaLoginSerializer\TestFiles\Reports.xml";
-string dirJsonReports = @"C:\Users\HP\PracticaLoginSerializer\TestFiles\Reports.json";
+string dirXmlUsers = @"C:\Users\HP\Documents\ProgramacionAvanzada\P2\Tareas\PracticaLoginSerializer\TestFiles\Users.xml";
+string dirJsonUsers = @"C:\Users\HP\Documents\ProgramacionAvanzada\P2\Tareas\PracticaLoginSerializer\TestFiles\Users.json";
+string dirXmlDevices = @"C:\Users\HP\Documents\ProgramacionAvanzada\P2\Tareas\PracticaLoginSerializer\TestFiles\Devices.xml";
+string dirJsonDevices = @"C:\Users\HP\Documents\ProgramacionAvanzada\P2\Tareas\PracticaLoginSerializer\TestFiles\Devices.json";
+string dirXmlReports = @"C:\Users\HP\Documents\ProgramacionAvanzada\P2\Tareas\PracticaLoginSerializer\TestFiles\Reports.xml";
+string dirJsonReports = @"C:\Users\HP\Documents\ProgramacionAvanzada\P2\Tareas\PracticaLoginSerializer\TestFiles\Reports.json";
 
 while(aux == false){ 
-WriteLine("Select an option \n [1]Login \n [2]SignUP  \n [3]ChangeInfo/Options for devices \n [X]Exit");
+WriteLine("Select an option \n 1-Login \n 2-SignUP  \n 3-ChangeInfo/Options for devices \n X-Exit");
 string? OP = ReadLine();
 
 switch (OP){
@@ -62,8 +62,8 @@ switch (OP){
     }
 
     case "3":{// manipular las opciones de los dispositivos etc...
-        WriteLine("Select an option \n [1]Add a device \n [2]Update a device \n [3]Delete a device");
-        WriteLine(" [4]Change your password \n [5]Generate a report \n [6]Remove User \n [X]Exit");
+        WriteLine("Select an option \n 1-Add a device \n 2-Update a device \n 3-Delete a device");
+        WriteLine(" 4-Change your password \n 5-Generate a report \n 6-Remove User \n X-Exit");
         string? OP2=ReadLine();
 
         switch(OP2){

@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  
+  <User>
+    <ID>1234</ID>
+    <FirstName>3ae643d65f437d9103f74f38ab66465aafb6e1b521a1662359d5165d447ce494</FirstName>
+    <LastName>6ebe15e4d6b1409d2a3d043e2c18203096d0dbaf0c8fb466a22fbaa33280b10a</LastName>
+    <Password>03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4</Password>
+    <DoB>2005</DoB>
+    <UserType>almacenista</UserType>
+  </User>
 </ArrayOfUser>

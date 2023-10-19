@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tJOK7WpIQz30g8S8nH28MGs84yt/TvQ0N8Z8xVvDv1VSmwmxM5EbR/MWA7VDJuWlC0efSO11DHqYW8mEcKQYyQ==",
+  "dgSpecHash": "tLaXRAFSzGl6MrFFvw/wMSx1GdIv6SweIkgBZY2nlOzF6nDn5DONuEQouooZqVH5vABeotgKliC6OdFZKYps9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gusta\\PracticaLoginSerializer\\practicaloginserializer\\practicaloginserializer.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Documents\\ProgramacionAvanzada\\p2\\tareas\\practicaloginserializer\\practicaloginserializer\\practicaloginserializer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Gusta\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

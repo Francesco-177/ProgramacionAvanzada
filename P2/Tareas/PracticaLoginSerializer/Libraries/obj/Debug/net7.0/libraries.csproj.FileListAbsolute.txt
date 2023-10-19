@@ -9,3 +9,14 @@ C:\Users\Gusta\PracticaLoginSerializer\libraries\obj\Debug\net7.0\libraries.dll
 C:\Users\Gusta\PracticaLoginSerializer\libraries\obj\Debug\net7.0\refint\libraries.dll
 C:\Users\Gusta\PracticaLoginSerializer\libraries\obj\Debug\net7.0\libraries.pdb
 C:\Users\Gusta\PracticaLoginSerializer\libraries\obj\Debug\net7.0\ref\libraries.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\p2\tareas\practicaloginserializer\Libraries\bin\Debug\net7.0\libraries.deps.json
+C:\Users\HP\Documents\ProgramacionAvanzada\p2\tareas\practicaloginserializer\Libraries\bin\Debug\net7.0\libraries.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\p2\tareas\practicaloginserializer\Libraries\bin\Debug\net7.0\libraries.pdb
+C:\Users\HP\Documents\ProgramacionAvanzada\p2\tareas\practicaloginserializer\Libraries\obj\Debug\net7.0\libraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ProgramacionAvanzada\p2\tareas\practicaloginserializer\Libraries\obj\Debug\net7.0\libraries.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\p2\tareas\practicaloginserializer\Libraries\obj\Debug\net7.0\libraries.AssemblyInfo.cs
+C:\Users\HP\Documents\ProgramacionAvanzada\p2\tareas\practicaloginserializer\Libraries\obj\Debug\net7.0\libraries.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\p2\tareas\practicaloginserializer\Libraries\obj\Debug\net7.0\libraries.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\p2\tareas\practicaloginserializer\Libraries\obj\Debug\net7.0\refint\libraries.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\p2\tareas\practicaloginserializer\Libraries\obj\Debug\net7.0\libraries.pdb
+C:\Users\HP\Documents\ProgramacionAvanzada\p2\tareas\practicaloginserializer\Libraries\obj\Debug\net7.0\ref\libraries.dll

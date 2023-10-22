@@ -1,4 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfDevice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-
+  <Device>
+    <ID>4</ID>
+    <Model>eefe</Model>
+    <Description>variador de voltaje de mercado</Description>
+    <YearEntered>2004</YearEntered>
+    <BrandName>colgate</BrandName>
+    <Category>true</Category>
+    <InitialPrice>1900</InitialPrice>
+    <ActualPrice>1850</ActualPrice>
+  </Device>
+  <Device>
+    <ID>2</ID>
+    <Model>234s</Model>
+    <Description>generador de osilaciones</Description>
+    <YearEntered>2016</YearEntered>
+    <BrandName>telcel</BrandName>
+    <Category>false</Category>
+    <InitialPrice>1000</InitialPrice>
+    <ActualPrice>1500</ActualPrice>
+  </Device>
+  <Device>
+    <ID>5</ID>
+    <Model>3435f</Model>
+    <Description>verificador de velocidad de velocirraptors</Description>
+    <YearEntered>2019</YearEntered>
+    <BrandName>ceti</BrandName>
+    <Category>false</Category>
+    <InitialPrice>5000</InitialPrice>
+    <ActualPrice>10500</ActualPrice>
+  </Device>
+  <Device>
+    <ID>1</ID>
+    <Model>12r3rn</Model>
+    <Description>Acoplador para partes de automovil</Description>
+    <YearEntered>2023</YearEntered>
+    <BrandName>huawei</BrandName>
+    <Category>true</Category>
+    <InitialPrice>12344</InitialPrice>
+    <ActualPrice>500</ActualPrice>
+  </Device>
 </ArrayOfDevice>

@@ -10,4 +10,34 @@
     <InitialPrice>12344</InitialPrice>
     <ActualPrice>500</ActualPrice>
   </Device>
+  <Device>
+    <ID>2</ID>
+    <Model>234s</Model>
+    <Description>generador de osilaciones</Description>
+    <YearEntered>2016</YearEntered>
+    <BrandName>telcel</BrandName>
+    <Category>false</Category>
+    <InitialPrice>1000</InitialPrice>
+    <ActualPrice>1500</ActualPrice>
+  </Device>
+  <Device>
+    <ID>4</ID>
+    <Model>eefe</Model>
+    <Description>variador de voltaje de mercado</Description>
+    <YearEntered>2004</YearEntered>
+    <BrandName>colgate</BrandName>
+    <Category>true</Category>
+    <InitialPrice>1900</InitialPrice>
+    <ActualPrice>1850</ActualPrice>
+  </Device>
+  <Device>
+    <ID>5</ID>
+    <Model>3435f</Model>
+    <Description>verificador de velocidad de velocirraptors</Description>
+    <YearEntered>2019</YearEntered>
+    <BrandName>ceti</BrandName>
+    <Category>false</Category>
+    <InitialPrice>5000</InitialPrice>
+    <ActualPrice>10500</ActualPrice>
+  </Device>
 </ArrayOfDevice>

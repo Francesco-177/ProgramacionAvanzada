@@ -1,1 +1,4 @@
-[]
+[{"ID":4,"Model":"eefe","Description":"variador de voltaje de mercado","YearEntered":2004,"BrandName":"colgate","Category":true,"InitialPrice":1900.0,"ActualPrice":1850.0},
+{"ID":2,"Model":"234s","Description":"generador de osilaciones","YearEntered":2016,"BrandName":"telcel","Category":false,"InitialPrice":1000.0,"ActualPrice":1500.0},
+{"ID":5,"Model":"3435f","Description":"verificador de velocidad de velocirraptors","YearEntered":2019,"BrandName":"ceti","Category":false,"InitialPrice":5000.0,"ActualPrice":10500.0},
+{"ID":1,"Model":"12r3rn","Description":"Acoplador para partes de automovil","YearEntered":2023,"BrandName":"huawei","Category":true,"InitialPrice":12344.0,"ActualPrice":500.0}]

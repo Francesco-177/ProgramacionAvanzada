@@ -1,0 +1,294 @@
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Northwind.db
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\appsettings.Development.json
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\appsettings.json
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\WebSupplies.web.exe
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\WebSupplies.web.deps.json
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\WebSupplies.web.runtimeconfig.json
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\WebSupplies.web.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\WebSupplies.web.pdb
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Castle.Core.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Humanizer.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\System.CodeDom.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\NorthWindDataContext.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\NorthwindSQLliteEntities.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\NorthwindSQLliteEntities.pdb
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\NorthWindDataContext.pdb
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.csproj.AssemblyReference.cache
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.AssemblyInfoInputs.cache
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.AssemblyInfo.cs
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.csproj.CoreCompileInputs.cache
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.MvcApplicationPartsAssemblyInfo.cache
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets\msbuild.WebSupplies.web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets\msbuild.build.WebSupplies.web.props
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebSupplies.web.props
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebSupplies.web.props
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets.build.json
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets.development.json
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\scopedcss\bundle\WebSupplies.web.styles.css
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.csproj.CopyComplete
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.dll
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\refint\WebSupplies.web.dll
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.pdb
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.genruntimeconfig.cache
+D:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\ref\WebSupplies.web.dll
+D:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\WebSupplies.web.staticwebassets.runtime.json
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Northwind.db
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\appsettings.Development.json
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\appsettings.json
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\WebSupplies.web.staticwebassets.runtime.json
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\WebSupplies.web.exe
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\WebSupplies.web.deps.json
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\WebSupplies.web.runtimeconfig.json
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\WebSupplies.web.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\WebSupplies.web.pdb
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Castle.Core.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Humanizer.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\System.CodeDom.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\NorthWindDataContext.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\NorthwindSQLliteEntities.dll
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\NorthwindSQLliteEntities.pdb
+E:\Progra Avanzada\3P\WebSupplies.web\bin\Debug\net7.0\NorthWindDataContext.pdb
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.csproj.AssemblyReference.cache
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.AssemblyInfoInputs.cache
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.AssemblyInfo.cs
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.csproj.CoreCompileInputs.cache
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.MvcApplicationPartsAssemblyInfo.cache
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.RazorAssemblyInfo.cache
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.RazorAssemblyInfo.cs
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets\msbuild.WebSupplies.web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets\msbuild.build.WebSupplies.web.props
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebSupplies.web.props
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebSupplies.web.props
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets.build.json
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets.development.json
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\scopedcss\bundle\WebSupplies.web.styles.css
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.csproj.CopyComplete
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.dll
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\refint\WebSupplies.web.dll
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.pdb
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.genruntimeconfig.cache
+E:\Progra Avanzada\3P\WebSupplies.web\obj\Debug\net7.0\ref\WebSupplies.web.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\Northwind.db
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\appsettings.json
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\WebSupplies.web.staticwebassets.runtime.json
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\WebSupplies.web.exe
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\WebSupplies.web.deps.json
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\WebSupplies.web.runtimeconfig.json
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\WebSupplies.web.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\WebSupplies.web.pdb
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\Humanizer.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\NorthWindDataContext.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\NorthwindSQLliteEntities.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\NorthwindSQLliteEntities.pdb
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\bin\Debug\net7.0\NorthWindDataContext.pdb
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.csproj.AssemblyReference.cache
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.AssemblyInfoInputs.cache
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.AssemblyInfo.cs
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.csproj.CoreCompileInputs.cache
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.RazorAssemblyInfo.cache
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.RazorAssemblyInfo.cs
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets\msbuild.WebSupplies.web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets\msbuild.build.WebSupplies.web.props
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebSupplies.web.props
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebSupplies.web.props
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\scopedcss\bundle\WebSupplies.web.styles.css
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.csproj.CopyComplete
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\refint\WebSupplies.web.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.pdb
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\WebSupplies.web.genruntimeconfig.cache
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\ref\WebSupplies.web.dll
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\EL MENJURJE\Documents\PA17BAgo-Dic2023\3P\WebSupplies.web\obj\Debug\net7.0\scopedcss\projectbundle\WebSupplies.web.bundle.scp.css
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\WebSupplies.web.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\WebSupplies.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\WebSupplies.web.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\WebSupplies.web.AssemblyInfo.cs
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\WebSupplies.web.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\WebSupplies.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\WebSupplies.web.RazorAssemblyInfo.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\WebSupplies.web.RazorAssemblyInfo.cs
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\WebSupplies.web.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\refint\WebSupplies.web.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\WebSupplies.web.pdb
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\Northwind.db
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\WebSupplies.web.staticwebassets.runtime.json
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\WebSupplies.web.exe
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\WebSupplies.web.deps.json
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\WebSupplies.web.runtimeconfig.json
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\WebSupplies.web.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\WebSupplies.web.pdb
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\Humanizer.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\NorthwindDataDataContext.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\NorthwindDB.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\NorthwindDB.pdb
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\bin\Debug\net7.0\NorthwindDataDataContext.pdb
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\staticwebassets\msbuild.WebSupplies.web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.WebSupplies.web.props
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebSupplies.web.props
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebSupplies.web.props
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\scopedcss\bundle\WebSupplies.web.styles.css
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\scopedcss\projectbundle\WebSupplies.web.bundle.scp.css
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\WebSupplies.web.csproj.CopyComplete
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\WebSupplies.web.genruntimeconfig.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\suppliers\Northwind.Web\obj\Debug\net7.0\ref\WebSupplies.web.dll

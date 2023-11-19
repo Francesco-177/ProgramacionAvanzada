@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\practica2\NorthwindDB\bin\Debug\net7.0\Northwind.db
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\practica2\NorthwindDB\bin\Debug\net7.0\NorthwindDB.deps.json
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\practica2\NorthwindDB\bin\Debug\net7.0\NorthwindDB.runtimeconfig.json
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\practica2\NorthwindDB\bin\Debug\net7.0\NorthwindDB.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\practica2\NorthwindDB\bin\Debug\net7.0\NorthwindDB.pdb
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\practica2\NorthwindDB\obj\Debug\net7.0\NorthwindDB.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\practica2\NorthwindDB\obj\Debug\net7.0\NorthwindDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\practica2\NorthwindDB\obj\Debug\net7.0\NorthwindDB.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\practica2\NorthwindDB\obj\Debug\net7.0\NorthwindDB.AssemblyInfo.cs
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\practica2\NorthwindDB\obj\Debug\net7.0\NorthwindDB.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\practica2\NorthwindDB\obj\Debug\net7.0\NorthwindDB.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\practica2\NorthwindDB\obj\Debug\net7.0\refint\NorthwindDB.dll
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\practica2\NorthwindDB\obj\Debug\net7.0\NorthwindDB.pdb
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\practica2\NorthwindDB\obj\Debug\net7.0\NorthwindDB.genruntimeconfig.cache
+C:\Users\HP\Documents\ProgramacionAvanzada\P3\Tareas\practica2\NorthwindDB\obj\Debug\net7.0\ref\NorthwindDB.dll
